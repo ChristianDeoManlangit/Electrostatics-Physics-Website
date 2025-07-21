@@ -50,7 +50,6 @@ This project serves as an educational resource that covers the core topics of el
 ## 📝 Notes
 
 - 🔄 Some redirect buttons may become non-functional due to Framer’s state-resetting behavior on exported HTML. These will be fixed as encountered.
-- ⚠️ Mobile optimization and transitions are a **work in progress** and will receive updates soon.
 
 ---
 
