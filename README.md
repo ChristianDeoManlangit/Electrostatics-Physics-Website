@@ -29,25 +29,25 @@ This project serves as an educational resource that covers the core topics of el
 
 ## 🖼️ Screenshots
 
-| ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
+| ![Home](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Home%20Page.png?raw=true) | ![Lesson Page 1](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Lesson%20Page%201.png?raw=true) |
 |:--:|:--:|
 | **Home** | **Lesson Page 1)** |
 
-| ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
+| ![Lesson Page 2](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Lesson%20Page%202.png?raw=true) | ![Lesson Page 3](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Lesson%20Page%203.png?raw=true) |
 |:--:|:--:|
 | **Lesson Page 2** | **Lesson Page 3** |
 
-| ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
+| ![Lesson Page 4](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Lesson%20Page%204.png?raw=true) | ![Up Next](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Up%20Next.png?raw=true) |
 |:--:|:--:|
 | **Lesson Page 4** | **Up Next** |
 
-| ![About](https://dummyimage.com/600x400/222/fff&text=About+Us) | ![Quiz](https://dummyimage.com/600x400/222/fff&text=Quiz+Page) |
+| ![About](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/About%20Us.png?raw=true) | ![Quiz](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Quiz.png?raw=true) |
 |:--:|:--:|
 | **About Us** | **Quiz** |
 
-| ![Mobile View](https://dummyimage.com/300x600/333/fff&text=Mobile+View) | ![Tablet View](https://dummyimage.com/600x800/444/fff&text=Tablet+View) |
-|:--:|:--:|
-| **Mobile View** | **Tablet View** |
+| Mobile View |
+|-----------|
+| ![Mobile View](https://github.com/ChristianDeoManlangit/Electrostatics-Physics-Website/blob/main/Assets/Mobile%20Mode.png?raw=true) |
 
 ---
 
