@@ -29,13 +29,17 @@ This project serves as an educational resource that covers the core topics of el
 
 ## 🖼️ Screenshots
 
-| ![Home](https://dummyimage.com/600x400/000/fff&text=Home+Page) |
-|:--:|
-| **Home** |
+| ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
+|:--:|:--:|
+| **Home** | **Lesson Page 1)** |
 
 | ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
 |:--:|:--:|
-| **Lesson Page (Top)** | **Lesson Page (Bottom)** |
+| **Lesson Page 2** | **Lesson Page 3** |
+
+| ![Lesson Top](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Top) | ![Lesson Bottom](https://dummyimage.com/600x400/111/fff&text=Lesson+Page+Bottom) |
+|:--:|:--:|
+| **Lesson Page 4** | **Up Next** |
 
 | ![About](https://dummyimage.com/600x400/222/fff&text=About+Us) | ![Quiz](https://dummyimage.com/600x400/222/fff&text=Quiz+Page) |
 |:--:|:--:|
