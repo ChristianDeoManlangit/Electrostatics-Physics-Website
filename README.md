@@ -55,7 +55,7 @@ This project serves as an educational resource that covers the core topics of el
 
 ## 🔗 Live Link
 
-[🌐 Visit the site on Vercel](https://electrostatics-physics-website.vercel.app/quiz)
+[🌐 Visit the site on Vercel](https://electrostatics-physics-website.vercel.app/)
 
 ---
 
